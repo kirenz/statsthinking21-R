@@ -133,7 +133,7 @@ mode_test = c('a', 'b', 'b', 'c', 'c', 'c')
 mode_test
 ```
 
-We can see by eye that the mode is "a" since it occurs more often than the others.  To find it computationally, let's first get the unique values
+We can see by eye that the mode is "c" since it occurs more often than the others.  To find it computationally, let's first get the unique values
 
 To do this, we first create a table with the counts for each value, using the `table()` function:
 
